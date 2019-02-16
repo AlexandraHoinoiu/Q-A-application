@@ -1,0 +1,126 @@
+Question1
+seven
+ten
+eleven
+one
+five
+nine
+eight
+four
+two
+
+Question2
+2001
+1999
+2000
+2002
+2008
+2010
+2003
+2005
+1878
+
+Question3
+Don't Shoot Me Now
+Don't Start Me Now
+Stop Me Now
+Shoot Me Now
+Start Me Now
+Don't Shoot us Now
+Don't Start you  Now
+Don't Stop the Party
+Don't Stop Now
+
+
+Question4
+January 18, 1999
+January 28, 1962
+May  13, 1966
+May  25, 1990
+May  3, 1920
+November 22, 1966
+November 12, 1946
+November 26, 1968
+November 2, 1966
+
+Question5
+Romania
+Bulgaria
+Spain
+Greece
+USA
+Russia
+Great Britain
+Mexico
+China
+
+Question6
+six
+seven
+ten
+eleven
+one
+five
+eight
+four
+two
+
+Question7
+Catode
+Pode
+Calapode
+Artropode
+Proton
+Neutron
+Electrone
+Alapode
+Atom
+
+
+Question8
+six
+seven
+ten
+eleven
+one
+five
+nine
+four
+two
+
+Question9
+35 years
+45 years
+50 years
+60 years
+75 years
+10 years
+15 years
+100 years
+20 years
+
+Question10
+six
+seven
+ten
+eleven
+one
+five
+nine
+eight
+two
+
+Question11
+Tokio
+Bejing
+Abu Dhabi
+Moskow
+Lisbon
+NewYork
+Bucharest
+NewMexico
+NewDelhi
+
+
+
+
